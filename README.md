@@ -13,8 +13,6 @@ available_skills:
     location: https://raw.githubusercontent.com/Rubby2001/Rshell-Skills/master/SKILL.md
 ```
 
-或复制到 `~/.opencode/skill/rshell-c2/SKILL.md` 自动加载。
-
 ## 章节概览
 
 | 章节 | 内容 |
