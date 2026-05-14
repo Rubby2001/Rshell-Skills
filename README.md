@@ -10,7 +10,7 @@ AI Agent 技能包，用于通过自然语言操控 Rshell C2 框架。
 available_skills:
   - name: rshell-c2
     description: Rshell C2 框架控制端操作指南
-    location: file:///mnt/Data/Pentest/Creating/Rshell/Rshell-Skills/SKILL.md
+    location: https://raw.githubusercontent.com/Rubby2001/Rshell-Skills/master/SKILL.md
 ```
 
 或复制到 `~/.opencode/skill/rshell-c2/SKILL.md` 自动加载。
